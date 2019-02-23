@@ -2,7 +2,7 @@
 
 #define PIN 6
 
-#define NUM_LEDS 43
+#define NUM_LEDS 47
 
 #define BRIGHTNESS 40
 
